@@ -1,261 +1,264 @@
-
-  {
-    "MathematicalApplication": [
-      {
-        "Sessions": [
-          {
-            "session": "Session 1",
-            "lectures": [
-              {
-                "name": "Skills",
-                "link": "https://iframe.mediadelivery.net/play/33074/d19cb330-4bb6-4f9b-adb5-ab32ccc594a7?autoplay=true"
-              },
-              {
-                "name": "Explanation",
-                "link": "https://iframe.mediadelivery.net/play/33074/56889c56-be70-46cd-aa14-36855a0b1399?autoplay=true"
-              },
-              {
-                "name": "Problems",
-                "link": "https://iframe.mediadelivery.net/play/33074/0efede62-36f0-41f5-a1fe-891b3d6c67de?autoplay=true"
-              },
-              {
-                "name": "Classwork",
-                "link": "https://iframe.mediadelivery.net/play/33074/e383b4c3-964c-4835-8504-76567f0f7427?autoplay=true"
-              }
-            ]
-          },
-          {
-            "session": "Session 2",
-            "lectures": [
-              {
-                "name": "Skills",
-                "link": "https://iframe.mediadelivery.net/play/33074/a1cf5e3e-e15b-4b21-9ccf-e9db7e0588ec?autoplay=true"
-              },
-              {
-                "name": "Explanation",
-                "link": "https://iframe.mediadelivery.net/play/33074/b6d268fe-79f2-44e6-a967-d00c1c049b5d?autoplay=true"
-              },
-              {
-                "name": "Problems",
-                "link": "https://iframe.mediadelivery.net/play/33074/b45b6d5e-2332-458d-b8e3-b3f0bec294eb?autoplay=true"
-              },
-              { "name": "Classwork", "link": "https://youtu.be/BFytlio_YR8" }
-            ]
-          },
-          {
-            "session": "Session 3",
-            "lectures": [
-              {
-                "name": "Skills",
-                "link": "https://iframe.mediadelivery.net/play/33074/865562e2-8785-4447-ac69-13af07abf720?autoplay=true"
-              },
-              {
-                "name": "Explanation",
-                "link": "https://iframe.mediadelivery.net/play/33074/a1ebc149-a40b-447e-a1fd-f5ad89ce21fa?autoplay=true"
-              },
-              {
-                "name": "Problems",
-                "link": "https://iframe.mediadelivery.net/play/33074/a9a08db5-a3c6-485b-8f6f-5dda19384bc1?autoplay=true"
-              },
-              {
-                "name": "Classwork",
-                "link": "https://iframe.mediadelivery.net/play/33074/e64289d1-6c53-451b-8fef-b027e6374102"
-              }
-            ]
-          },
-          {
-            "session": "Session 4",
-            "lectures": [
-              {
-                "name": "Explanation",
-                "link": "https://iframe.mediadelivery.net/embed/33074/a7dd2fe9-e639-4cc9-a456-e97c699d3d3e?autoplay=true"
-              },
-              {
-                "name": "Problems",
-                "link": "https://iframe.mediadelivery.net/embed/33074/7db29b0f-2205-49d2-a42e-ba3f7786dcbd?autoplay=true"
-              },
-              {
-                "name": "Classwork",
-                "link": "https://iframe.mediadelivery.net/embed/33074/2f6e4403-3e37-441b-a027-50831ce693ee?autoplay=true"
-              },
-              {
-                "name": "Homework",
-                "link": "https://iframe.mediadelivery.net/embed/33074/553d1461-e5a3-41e9-8f28-b5d498ebbe9c?autoplay=true"
-              }
-            ]
-          },
-          {
-            "session": "Session 5",
-            "lectures": [
-              {
-                "name": "Explanation Part1",
-                "link": "https://iframe.mediadelivery.net/play/33074/5525ff18-2544-4e49-9600-9a4d9fb64577"
-              },
-              {
-                "name": "Explanation Part2",
-                "link": "https://iframe.mediadelivery.net/play/33074/5d412355-ffe6-48a1-bfdc-ffc291b7057a"
-              },
-              {
-                "name": "Explanation Part3",
-                "link": "https://iframe.mediadelivery.net/play/33074/62495f22-6c06-4f92-b9ae-1553ab10d4aa"
-              },
-              {
-                "name": "Classwork & Homework",
-                "link": "https://iframe.mediadelivery.net/play/33074/94dedbf7-74f5-47e4-adf5-927f1717dba9"
-              }
-            ]
-          }
-        ]
-      }
-    ],
+{
+  "MathematicalApplication": [
+    {
+      "Sessions": [
+        {
+          "session": "Session 1",
+          "lectures": [
+            {
+              "name": "Skills",
+              "link": "https://iframe.mediadelivery.net/play/33074/d19cb330-4bb6-4f9b-adb5-ab32ccc594a7?autoplay=true"
+            },
+            {
+              "name": "Explanation",
+              "link": "https://iframe.mediadelivery.net/play/33074/56889c56-be70-46cd-aa14-36855a0b1399?autoplay=true"
+            },
+            {
+              "name": "Problems",
+              "link": "https://iframe.mediadelivery.net/play/33074/0efede62-36f0-41f5-a1fe-891b3d6c67de?autoplay=true"
+            },
+            {
+              "name": "Classwork",
+              "link": "https://iframe.mediadelivery.net/play/33074/e383b4c3-964c-4835-8504-76567f0f7427?autoplay=true"
+            }
+          ]
+        },
+        {
+          "session": "Session 2",
+          "lectures": [
+            {
+              "name": "Skills",
+              "link": "https://iframe.mediadelivery.net/play/33074/a1cf5e3e-e15b-4b21-9ccf-e9db7e0588ec?autoplay=true"
+            },
+            {
+              "name": "Explanation",
+              "link": "https://iframe.mediadelivery.net/play/33074/b6d268fe-79f2-44e6-a967-d00c1c049b5d?autoplay=true"
+            },
+            {
+              "name": "Problems",
+              "link": "https://iframe.mediadelivery.net/play/33074/b45b6d5e-2332-458d-b8e3-b3f0bec294eb?autoplay=true"
+            },
+            { "name": "Classwork", "link": "https://youtu.be/BFytlio_YR8" }
+          ]
+        },
+        {
+          "session": "Session 3",
+          "lectures": [
+            {
+              "name": "Skills",
+              "link": "https://iframe.mediadelivery.net/play/33074/865562e2-8785-4447-ac69-13af07abf720?autoplay=true"
+            },
+            {
+              "name": "Explanation",
+              "link": "https://iframe.mediadelivery.net/play/33074/a1ebc149-a40b-447e-a1fd-f5ad89ce21fa?autoplay=true"
+            },
+            {
+              "name": "Problems",
+              "link": "https://iframe.mediadelivery.net/play/33074/a9a08db5-a3c6-485b-8f6f-5dda19384bc1?autoplay=true"
+            },
+            {
+              "name": "Classwork",
+              "link": "https://iframe.mediadelivery.net/play/33074/e64289d1-6c53-451b-8fef-b027e6374102"
+            }
+          ]
+        },
+        {
+          "session": "Session 4",
+          "lectures": [
+            {
+              "name": "Explanation",
+              "link": "https://iframe.mediadelivery.net/embed/33074/a7dd2fe9-e639-4cc9-a456-e97c699d3d3e?autoplay=true"
+            },
+            {
+              "name": "Problems",
+              "link": "https://iframe.mediadelivery.net/embed/33074/7db29b0f-2205-49d2-a42e-ba3f7786dcbd?autoplay=true"
+            },
+            {
+              "name": "Classwork",
+              "link": "https://iframe.mediadelivery.net/embed/33074/2f6e4403-3e37-441b-a027-50831ce693ee?autoplay=true"
+            },
+            {
+              "name": "Homework",
+              "link": "https://iframe.mediadelivery.net/embed/33074/553d1461-e5a3-41e9-8f28-b5d498ebbe9c?autoplay=true"
+            }
+          ]
+        },
+        {
+          "session": "Session 5",
+          "lectures": [
+            {
+              "name": "Explanation Part1",
+              "link": "https://iframe.mediadelivery.net/play/33074/5525ff18-2544-4e49-9600-9a4d9fb64577"
+            },
+            {
+              "name": "Explanation Part2",
+              "link": "https://iframe.mediadelivery.net/play/33074/5d412355-ffe6-48a1-bfdc-ffc291b7057a"
+            },
+            {
+              "name": "Explanation Part3",
+              "link": "https://iframe.mediadelivery.net/play/33074/62495f22-6c06-4f92-b9ae-1553ab10d4aa"
+            },
+            {
+              "name": "Classwork & Homework",
+              "link": "https://iframe.mediadelivery.net/play/33074/94dedbf7-74f5-47e4-adf5-927f1717dba9"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "Pure Math": [
     {
-      "session": "Session 1",
-      "lectures": [
-        { "name": "Explanation", "link": "https://youtu.be/K8f_MLC6674" },
-        { "name": "Skills", "link": "https://youtu.be/StAidI9o2e4" },
-        { "name": "Problems", "link": "https://youtu.be/3t2cNx5KE-U" },
+      "Sessions": [
         {
-          "name": "Classwork",
-          "link": "https://iframe.mediadelivery.net/play/33074/e383b4c3-964c-4835-8504-76567f0f7427"
-        }
-      ]
-    },
-    {
-      "session": "Session 2",
-      "lectures": [
-        {
-          "name": "Explanation",
-          "link": "https://iframe.mediadelivery.net/play/33074/26e23189-6ce6-49ab-a619-ad91a5d638bf"
+          "session": "Session 1",
+          "lectures": [
+            { "name": "Explanation", "link": "https://youtu.be/K8f_MLC6674" },
+            { "name": "Skills", "link": "https://youtu.be/StAidI9o2e4" },
+            { "name": "Problems", "link": "https://youtu.be/3t2cNx5KE-U" },
+            {
+              "name": "Classwork",
+              "link": "https://iframe.mediadelivery.net/play/33074/e383b4c3-964c-4835-8504-76567f0f7427"
+            }
+          ]
         },
         {
-          "name": "Problems",
-          "link": "https://iframe.mediadelivery.net/play/33074/f308c2ca-9b54-4d80-803a-02ffa55ba624"
+          "session": "Session 2",
+          "lectures": [
+            {
+              "name": "Explanation",
+              "link": "https://iframe.mediadelivery.net/play/33074/26e23189-6ce6-49ab-a619-ad91a5d638bf"
+            },
+            {
+              "name": "Problems",
+              "link": "https://iframe.mediadelivery.net/play/33074/f308c2ca-9b54-4d80-803a-02ffa55ba624"
+            },
+            {
+              "name": "Classwork",
+              "link": "https://iframe.mediadelivery.net/play/33074/6f7afef4-25b3-405c-8901-e13f784aca55"
+            }
+          ]
         },
         {
-          "name": "Classwork",
-          "link": "https://iframe.mediadelivery.net/play/33074/6f7afef4-25b3-405c-8901-e13f784aca55"
-        }
-      ]
-    },
-    {
-      "session": "Session 3",
-      "lectures": [
-        {
-          "name": "Explanation",
-          "link": "https://iframe.mediadelivery.net/play/33074/17456259-da12-4345-8ab0-8dbc86563362"
+          "session": "Session 3",
+          "lectures": [
+            {
+              "name": "Explanation",
+              "link": "https://iframe.mediadelivery.net/play/33074/17456259-da12-4345-8ab0-8dbc86563362"
+            },
+            {
+              "name": "Skills",
+              "link": "https://iframe.mediadelivery.net/play/33074/9aef177e-0bf1-458d-979e-ff6a275d5265"
+            },
+            {
+              "name": "Problems",
+              "link": "https://iframe.mediadelivery.net/play/33074/21518b13-8f71-4dbb-9d84-e21a1b9a595a"
+            },
+            {
+              "name": "Classwork",
+              "link": "https://iframe.mediadelivery.net/play/33074/0121c989-f74a-480d-b1a2-ff9240597be2"
+            }
+          ]
         },
         {
-          "name": "Skills",
-          "link": "https://iframe.mediadelivery.net/play/33074/9aef177e-0bf1-458d-979e-ff6a275d5265"
+          "session": "Session 4",
+          "lectures": [
+            {
+              "name": "Explanation",
+              "link": "https://iframe.mediadelivery.net/play/33074/001a9eae-b43b-4f0e-b6e9-84c5a79b154e"
+            },
+            {
+              "name": "Skills",
+              "link": "https://iframe.mediadelivery.net/play/33074/02a5c852-094b-4850-b941-1f9e91509c95"
+            },
+            {
+              "name": "Problems",
+              "link": "https://iframe.mediadelivery.net/play/33074/bb86e68c-3cb5-4992-a1a4-392e7dcb6beb"
+            },
+            {
+              "name": "Classwork",
+              "link": "https://iframe.mediadelivery.net/play/33074/72dd0dad-4260-4bac-ac1b-b07a1ad78c6b"
+            },
+            {
+              "name": "Homework",
+              "link": "https://iframe.mediadelivery.net/play/33074/f287eb34-0218-44da-b022-01179134354e"
+            }
+          ]
         },
         {
-          "name": "Problems",
-          "link": "https://iframe.mediadelivery.net/play/33074/21518b13-8f71-4dbb-9d84-e21a1b9a595a"
+          "session": "Session 5",
+          "lectures": [
+            {
+              "name": "Explanation Part1",
+              "link": "https://iframe.mediadelivery.net/play/33074/2ac70b42-636c-4515-89bf-2734fba9078b"
+            },
+            {
+              "name": "Explanation Part2",
+              "link": "https://iframe.mediadelivery.net/play/33074/85084993-2537-43ff-9c11-0500473318f0"
+            },
+            {
+              "name": "Skills",
+              "link": "https://iframe.mediadelivery.net/play/33074/dc1d563c-4a22-4f06-b9de-1bc68181fb47"
+            },
+            {
+              "name": "Homework",
+              "link": "https://iframe.mediadelivery.net/play/33074/cb13fd80-6790-495b-a3dd-b858cd6aafe7"
+            }
+          ]
         },
         {
-          "name": "Classwork",
-          "link": "https://iframe.mediadelivery.net/play/33074/0121c989-f74a-480d-b1a2-ff9240597be2"
-        }
-      ]
-    },
-    {
-      "session": "Session 4",
-      "lectures": [
-        {
-          "name": "Explanation",
-          "link": "https://iframe.mediadelivery.net/play/33074/001a9eae-b43b-4f0e-b6e9-84c5a79b154e"
+          "session": "Session 6",
+          "lectures": [
+            {
+              "name": "Explanation Part1",
+              "link": "https://iframe.mediadelivery.net/play/33074/23f1d0c6-5787-4fe4-8a93-79071462208c"
+            },
+            {
+              "name": "Explanation Part2",
+              "link": "https://iframe.mediadelivery.net/play/33074/2eb8dd65-ed59-4e77-8a66-9f238ad34344"
+            },
+            {
+              "name": "Explanation Part3",
+              "link": "https://iframe.mediadelivery.net/play/33074/92cdce06-3356-4544-b731-685a08893317"
+            },
+            {
+              "name": "Classwork",
+              "link": "https://iframe.mediadelivery.net/play/33074/f52cfc2e-381b-455d-bb2f-6024d40c059b"
+            },
+            {
+              "name": "Homework",
+              "link": "https://iframe.mediadelivery.net/play/33074/a02ab45f-8ba5-4715-90c4-4790dd84939c"
+            }
+          ]
         },
         {
-          "name": "Skills",
-          "link": "https://iframe.mediadelivery.net/play/33074/02a5c852-094b-4850-b941-1f9e91509c95"
-        },
-        {
-          "name": "Problems",
-          "link": "https://iframe.mediadelivery.net/play/33074/bb86e68c-3cb5-4992-a1a4-392e7dcb6beb"
-        },
-        {
-          "name": "Classwork",
-          "link": "https://iframe.mediadelivery.net/play/33074/72dd0dad-4260-4bac-ac1b-b07a1ad78c6b"
-        },
-        {
-          "name": "Homework",
-          "link": "https://iframe.mediadelivery.net/play/33074/f287eb34-0218-44da-b022-01179134354e"
-        }
-      ]
-    },
-    {
-      "session": "Session 5",
-      "lectures": [
-        {
-          "name": "Explanation Part1",
-          "link": "https://iframe.mediadelivery.net/play/33074/2ac70b42-636c-4515-89bf-2734fba9078b"
-        },
-        {
-          "name": "Explanation Part2",
-          "link": "https://iframe.mediadelivery.net/play/33074/85084993-2537-43ff-9c11-0500473318f0"
-        },
-        {
-          "name": "Skills",
-          "link": "https://iframe.mediadelivery.net/play/33074/dc1d563c-4a22-4f06-b9de-1bc68181fb47"
-        },
-        {
-          "name": "Homework",
-          "link": "https://iframe.mediadelivery.net/play/33074/cb13fd80-6790-495b-a3dd-b858cd6aafe7"
-        }
-      ]
-    },
-    {
-      "session": "Session 6",
-      "lectures": [
-        {
-          "name": "Explanation Part1",
-          "link": "https://iframe.mediadelivery.net/play/33074/23f1d0c6-5787-4fe4-8a93-79071462208c"
-        },
-        {
-          "name": "Explanation Part2",
-          "link": "https://iframe.mediadelivery.net/play/33074/2eb8dd65-ed59-4e77-8a66-9f238ad34344"
-        },
-        {
-          "name": "Explanation Part3",
-          "link": "https://iframe.mediadelivery.net/play/33074/92cdce06-3356-4544-b731-685a08893317"
-        },
-        {
-          "name": "Classwork",
-          "link": "https://iframe.mediadelivery.net/play/33074/f52cfc2e-381b-455d-bb2f-6024d40c059b"
-        },
-        {
-          "name": "Homework",
-          "link": "https://iframe.mediadelivery.net/play/33074/a02ab45f-8ba5-4715-90c4-4790dd84939c"
-        }
-      ]
-    },
-    {
-      "session": "Session 7",
-      "lectures": [
-        {
-          "name": "Explanation",
-          "link": "https://iframe.mediadelivery.net/play/33074/aab18ae6-fb91-45a5-8b2c-696afbaca631"
-        },
-        {
-          "name": "Problems",
-          "link": "https://iframe.mediadelivery.net/play/33074/b3c925e3-24e1-4bba-9e65-5e380e6ed63f"
-        },
-        {
-          "name": "Skills",
-          "link": "https://iframe.mediadelivery.net/play/33074/02a7db7b-b085-400c-8c40-427e182c2646"
-        },
-        {
-          "name": "Classwork",
-          "link": "https://iframe.mediadelivery.net/play/33074/c40214cb-850e-4f44-b14e-303d1bcc1b4b"
-        },
-        {
-          "name": "Homework Part1",
-          "link": "https://iframe.mediadelivery.net/play/33074/b8097944-f6f1-49f1-9210-ff9f16a50641"
-        },
-        {
-          "name": "Homework Part2",
-          "link": "https://iframe.mediadelivery.net/play/33074/dff1b6fd-9667-4754-a92d-de6b5ad68a49"
+          "session": "Session 7",
+          "lectures": [
+            {
+              "name": "Explanation",
+              "link": "https://iframe.mediadelivery.net/play/33074/aab18ae6-fb91-45a5-8b2c-696afbaca631"
+            },
+            {
+              "name": "Problems",
+              "link": "https://iframe.mediadelivery.net/play/33074/b3c925e3-24e1-4bba-9e65-5e380e6ed63f"
+            },
+            {
+              "name": "Skills",
+              "link": "https://iframe.mediadelivery.net/play/33074/02a7db7b-b085-400c-8c40-427e182c2646"
+            },
+            {
+              "name": "Classwork",
+              "link": "https://iframe.mediadelivery.net/play/33074/c40214cb-850e-4f44-b14e-303d1bcc1b4b"
+            },
+            {
+              "name": "Homework Part1",
+              "link": "https://iframe.mediadelivery.net/play/33074/b8097944-f6f1-49f1-9210-ff9f16a50641"
+            },
+            {
+              "name": "Homework Part2",
+              "link": "https://iframe.mediadelivery.net/play/33074/dff1b6fd-9667-4754-a92d-de6b5ad68a49"
+            }
+          ]
         }
       ]
     }
