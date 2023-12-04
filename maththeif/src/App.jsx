@@ -10,8 +10,9 @@ function App() {
 
   return (
     <>
+    <h1>Click on session</h1>
     <PureLectures/>
-{/* <Lectures/> */}
+<Lectures/>
     </>
   )
 }

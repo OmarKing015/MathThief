@@ -19,7 +19,7 @@ const PureLectures = () => {
               <h3>Pure Math</h3>
               {data["Pure Math"].map((session, sessionIndex) => (
                 <div key={sessionIndex}>
-                  <ul className="flex gap-[7%] flex-col">
+                  <ul className="flex gap-7 text-red-600 " style={{display: "flex", gap:"7%", marginLeft:"-150px"}}>
                     {session.Sessions.map((lecture, lectureIndex) => (
                       <li key={lectureIndex} onClick={() => handleToggle(0)}>
                         {lecture.session}
