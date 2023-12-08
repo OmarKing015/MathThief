@@ -11,7 +11,7 @@ function App() {
   return (
     <>
     <h1>Click on session</h1>
-    <PureLectures style={{display:"felx", paddingRight: "400px"}}/>
+    <PureLectures style={{display:"felx", paddingRight: "500px"}}/>
 <Lectures/>
     </>
   )
