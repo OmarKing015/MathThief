@@ -104,6 +104,45 @@
             }
           ]
         }
+       , {
+          "session": "Session 6 'S.G'",
+          "lectures": [
+            {
+              "name": "Explanation Part1",
+              "link": "https://iframe.mediadelivery.net/play/33074/c26b70c2-a036-4037-b4c2-9690d2630210"
+            },
+            {
+              "name": "Explanation Part2",
+              "link": "https://iframe.mediadelivery.net/play/33074/3e61d73a-3ca6-4ba8-9fc4-223a6aad411f"
+            },
+            {
+              "name": "Explanation Part3",
+              "link": "https://iframe.mediadelivery.net/play/33074/f9f38efa-fe76-4d19-9afa-36eaf08bedc8"
+            },
+            {
+              "name": "Classwork 'Pyramid'",
+              "link": "https://iframe.mediadelivery.net/play/33074/22211c06-755b-42c0-976d-858fb864ff0e"
+            },
+            {
+              "name": "Classwork 'Cone'",
+              "link": "https://iframe.mediadelivery.net/play/33074/4b306085-548f-48c1-8964-9ddc79936c48"
+            },
+            {
+              "name": "Homework 'Pyramid'",
+              "link": "https://iframe.mediadelivery.net/play/33074/7da2578f-8b8d-445f-8233-95c2d5d864e5"
+            }
+            ,
+            {
+              "name": "Homework 'Cone'",
+              "link": "https://iframe.mediadelivery.net/play/33074/4b306085-548f-48c1-8964-9ddc79936c48"
+            }
+            ,
+            {
+              "name": "Homework & Classwork Part 1",
+              "link": "https://youtu.be/pUBiPbh77E8"
+            }
+          ]
+        }
       ]
     }
   ],
@@ -257,6 +296,51 @@
             {
               "name": "Homework Part2",
               "link": "https://iframe.mediadelivery.net/play/33074/dff1b6fd-9667-4754-a92d-de6b5ad68a49"
+            }
+          ]
+        },
+        {
+          "session": "Session 8",
+          "lectures": [
+            {
+              "name": "Explanation Part1",
+              "link": "https://iframe.mediadelivery.net/play/33074/f5787016-d9f2-4327-8d4f-3a062d18a534"
+            },
+            {
+              "name": "Explanation Part2",
+              "link": "https://iframe.mediadelivery.net/play/33074/4a7fb5f5-f9b4-4449-83c4-85f64bc5e9bc"
+            },
+            {
+              "name": "Explanation Part3",
+              "link": "https://iframe.mediadelivery.net/play/33074/00fa4976-7d7d-4c87-9583-77e4522a4e30"
+            },
+            {
+              "name": "Classwork",
+              "link": "https://youtu.be/0iFCdol3XGM"
+            },
+            {
+              "name": "Homework",
+              "link": "https://youtu.be/_pOWEVi37Ho"
+            }
+          ]
+        },{
+          "session": "Session 9",
+          "lectures": [
+            {
+              "name": "Explanation Part1",
+              "link": "https://iframe.mediadelivery.net/play/33074/221150be-a3f4-414a-95b9-a91eaaad14dd"
+            },
+            {
+              "name": "Explanation Part2",
+              "link": "https://iframe.mediadelivery.net/play/33074/214c4598-4812-46a8-8ab1-fe7bf80687c8"
+            },
+            {
+              "name": "Classwork",
+              "link": "https://iframe.mediadelivery.net/play/33074/3cc419a7-00a9-4c9e-8683-fbb778738230"
+            },
+            {
+              "name": "Homework",
+              "link": "https://iframe.mediadelivery.net/play/33074/b605a79e-7ec5-4c2c-b377-d8002859bdc3"
             }
           ]
         }
