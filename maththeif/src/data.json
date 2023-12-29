@@ -20,8 +20,8 @@
             {
               "name": "Classwork",
               "link": "https://iframe.mediadelivery.net/play/33074/e383b4c3-964c-4835-8504-76567f0f7427?autoplay=true"
-            }
-            ,{
+            },
+            {
               "name": "PDF",
               "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/80932_Session%201%20mechanics%20-%202nd-Sec_compressed.pdf"
             }
@@ -42,9 +42,11 @@
               "name": "Problems",
               "link": "https://iframe.mediadelivery.net/play/33074/b45b6d5e-2332-458d-b8e3-b3f0bec294eb?autoplay=true"
             },
-            { "name": "Classwork", "link": "https://youtu.be/BFytlio_YR8" }
-            ,
-            { "name": "PDF", "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/92129_session%202%20Mech%202nd%20sec%201st%20term%202024_compressed.pdf" }
+            { "name": "Classwork", "link": "https://youtu.be/BFytlio_YR8" },
+            {
+              "name": "PDF",
+              "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/92129_session%202%20Mech%202nd%20sec%201st%20term%202024_compressed.pdf"
+            }
           ]
         },
         {
@@ -66,8 +68,10 @@
               "name": "Classwork",
               "link": "https://iframe.mediadelivery.net/play/33074/e64289d1-6c53-451b-8fef-b027e6374102"
             },
-            { "name": "PDF", "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/13581_session%203%20Mech%202nd%20sec%201st%20term%202024_compressed.pdf" }
-
+            {
+              "name": "PDF",
+              "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/13581_session%203%20Mech%202nd%20sec%201st%20term%202024_compressed.pdf"
+            }
           ]
         },
         {
@@ -88,8 +92,8 @@
             {
               "name": "Homework",
               "link": "https://iframe.mediadelivery.net/play/33074/553d1461-e5a3-41e9-8f28-b5d498ebbe9c?autoplay=true"
-            }
-            ,{
+            },
+            {
               "name": "PDF",
               "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/98221_session%204%20Mech%202nd%20sec%201st%20term%202024_compressed.pdf"
             }
@@ -113,13 +117,14 @@
             {
               "name": "Classwork & Homework",
               "link": "https://iframe.mediadelivery.net/play/33074/94dedbf7-74f5-47e4-adf5-927f1717dba9"
-            },{
-              "name":"PDF",
-              "link":"https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/48676_session%205%20Mech%202nd%20sec%201st%20term%202024_compressed.pdf"            
+            },
+            {
+              "name": "PDF",
+              "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/48676_session%205%20Mech%202nd%20sec%201st%20term%202024_compressed.pdf"
             }
           ]
-        }
-       , {
+        },
+        {
           "session": "Session 6 'S.G'",
           "lectures": [
             {
@@ -145,30 +150,40 @@
             {
               "name": "Homework 'Pyramid'",
               "link": "https://iframe.mediadelivery.net/play/33074/7da2578f-8b8d-445f-8233-95c2d5d864e5"
-            }
-            ,
+            },
             {
               "name": "Homework 'Cone'",
               "link": "https://iframe.mediadelivery.net/play/33074/4b306085-548f-48c1-8964-9ddc79936c48"
-            }
-            ,
+            },
             {
               "name": "Homework & Classwork Part 1",
               "link": "https://youtu.be/pUBiPbh77E8"
-            }
-            ,
+            },
             {
               "name": "PDF",
               "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/15272_session%206%20Mech%202nd%20sec%201st%20term%202024_compressed.pdf"
             }
           ]
-        },{
-          "session":"Session 7",
-          "lectures":[
-             {"name":"equation of circle - part 1", "link":"https://iframe.mediadelivery.net/play/33074/c769f004-b947-4013-b2bb-b8fabd81d64c"}
-            ,{"name":"equation of circle - part 2", "link":"https://iframe.mediadelivery.net/play/33074/6f744420-ebf6-4a30-accb-0d9c35461524?autoplay=true"}
-            ,{"name":"equation of circle - cw&hw", "link":"https://youtu.be/WhR6-_nk2tc"}
-            ,{"name":"PDF", "link":"https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/84859_session%207%20Mech%202nd%20sec%201st%20term%202024-1_compressed.pdf"}
+        },
+        {
+          "session": "Session 7",
+          "lectures": [
+            {
+              "name": "equation of circle - part 1",
+              "link": "https://iframe.mediadelivery.net/play/33074/c769f004-b947-4013-b2bb-b8fabd81d64c"
+            },
+            {
+              "name": "equation of circle - part 2",
+              "link": "https://iframe.mediadelivery.net/play/33074/6f744420-ebf6-4a30-accb-0d9c35461524?autoplay=true"
+            },
+            {
+              "name": "equation of circle - cw&hw",
+              "link": "https://youtu.be/WhR6-_nk2tc"
+            },
+            {
+              "name": "PDF",
+              "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/84859_session%207%20Mech%202nd%20sec%201st%20term%202024-1_compressed.pdf"
+            }
           ]
         }
       ]
@@ -186,8 +201,8 @@
             {
               "name": "Classwork",
               "link": "https://iframe.mediadelivery.net/play/33074/e383b4c3-964c-4835-8504-76567f0f7427"
-            }
-            ,{
+            },
+            {
               "name": "PDF",
               "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/76235_Session%201%20Math%20-%202nd-Sec_compressed.pdf"
             }
@@ -207,8 +222,8 @@
             {
               "name": "Classwork",
               "link": "https://iframe.mediadelivery.net/play/33074/6f7afef4-25b3-405c-8901-e13f784aca55"
-            }
-            ,{
+            },
+            {
               "name": "PDF",
               "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/48315_Session%202%20calc_compressed.pdf"
             }
@@ -232,8 +247,8 @@
             {
               "name": "Classwork",
               "link": "https://iframe.mediadelivery.net/play/33074/0121c989-f74a-480d-b1a2-ff9240597be2"
-            }
-           , {
+            },
+            {
               "name": "PDF",
               "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/83723_Session%201%20trig_compressed.pdf"
             }
@@ -261,8 +276,8 @@
             {
               "name": "Homework",
               "link": "https://iframe.mediadelivery.net/play/33074/f287eb34-0218-44da-b022-01179134354e"
-            }
-          ,  {
+            },
+            {
               "name": "PDF",
               "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/96366_Session%201%20Alg_compressed.pdf"
             }
@@ -286,8 +301,8 @@
             {
               "name": "Homework",
               "link": "https://iframe.mediadelivery.net/play/33074/cb13fd80-6790-495b-a3dd-b858cd6aafe7"
-            }
-           , {
+            },
+            {
               "name": "PDF",
               "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/11250_Session%202%20Alg_compressed.pdf"
             }
@@ -315,8 +330,8 @@
             {
               "name": "Homework",
               "link": "https://iframe.mediadelivery.net/play/33074/a02ab45f-8ba5-4715-90c4-4790dd84939c"
-            }
-            ,{
+            },
+            {
               "name": "PDF",
               "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/20509_Session%203%20Alg_compressed.pdf"
             }
@@ -348,8 +363,8 @@
             {
               "name": "Homework Part2",
               "link": "https://iframe.mediadelivery.net/play/33074/dff1b6fd-9667-4754-a92d-de6b5ad68a49"
-            }
-            ,{
+            },
+            {
               "name": "PDF",
               "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/65731_Session%202%20trig_compressed.pdf"
             }
@@ -377,12 +392,14 @@
             {
               "name": "Homework",
               "link": "https://youtu.be/_pOWEVi37Ho"
-            } ,{
-              "name":"PDF",
-              "link":"https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/76177_Session%204%20Alg_compressed.pdf"            
+            },
+            {
+              "name": "PDF",
+              "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/76177_Session%204%20Alg_compressed.pdf"
             }
           ]
-        },{
+        },
+        {
           "session": "Session 9",
           "lectures": [
             {
@@ -402,11 +419,43 @@
               "link": "https://iframe.mediadelivery.net/play/33074/b605a79e-7ec5-4c2c-b377-d8002859bdc3"
             },
             {
-              "name":"PDF",
-              "link":"https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/97454_Session%203%20calc_compressed.pdf"            
+              "name": "PDF",
+              "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/97454_Session%203%20calc_compressed.pdf"
             }
-           
-        ]
+          ]
+        },
+        {
+          "session": "Session 10",
+          "lectures": [
+            {
+              "name": "logarithms",
+              "link": "https://iframe.mediadelivery.net/play/33074/6bd927f9-ac42-4dd4-87cd-4a73537d8e82"
+            },
+            {
+              "name": "Inverse Function",
+              "link": "https://iframe.mediadelivery.net/play/33074/dc4676d5-c59e-4f50-ad8a-e0acd909eb34"
+            },
+            {
+              "name": "Inverse Function - Classwork",
+              "link": "https://iframe.mediadelivery.net/play/33074/f771bdce-cf7c-4aec-975b-396d8e3562b5"
+            },
+            {
+              "name": "Inverse Function - Homework",
+              "link": "https://iframe.mediadelivery.net/play/33074/34305549-c89d-4bf8-a3ca-00c8386b8d9e"
+            },
+            {
+              "name": "Logarithms - Classwork",
+              "link": "https://iframe.mediadelivery.net/play/33074/d64dc81e-cd71-49c1-87ac-4df28a899cbf"
+            },
+            {
+              "name": "Logarithms - Homework",
+              "link": "https://iframe.mediadelivery.net/play/33074/344ff01f-f7b1-4b68-bbb1-e921030d98e5"
+            },
+            {
+              "name": "PDF",
+              "link": "https://omar-sherbeni.com/student/G2bMQTPtMV3KGLojM7rE/uploads/files/81209_Session%205%20Alg_compressed.pdf"
+            }
+          ]
         }
       ]
     }
