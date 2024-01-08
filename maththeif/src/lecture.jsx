@@ -20,8 +20,8 @@ const Lectures = () => {
                 <div key={sessionIndex}>
                   <h3>Math Appliction</h3>
                   <ul
-                    className="flex gap-[7%] flex-col"
-                    style={{ display: "flex", gap: "5%" }}
+                    className="flex gap-[7%] flex-col flex-wrap"
+                    style={{ display: "flex", gap: "5%", flexWrap:"wrap" }}
                   >
                     {session.Sessions.map((lecture, lectureIndex) => (
                       <li key={lectureIndex} onClick={() => handleToggle(0)}>
